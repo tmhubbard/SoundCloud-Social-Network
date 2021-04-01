@@ -1,4 +1,4 @@
-# Soundcloud Social Network
+# SoundCloud Social Network
 This pair of scripts is meant to help build “co-follower” graphs from particular artists on SoundCloud! I had the idea when thinking about some of the more niche musicians I listen to, who tend to exist in smaller subcommunities on websites like SoundCloud. I figured that I could find more musicians in their circle if I created a “co-follower network”: 
 
 * Nodes in the graph represent musicians on SoundCloud
